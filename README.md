@@ -1,5 +1,5 @@
 # nu-books
-this is a list of notable books (mostly type/design related) that are available for all northwestern students through either main library or northwestern special collections. you can find or check these books out by going to the [northwestern library website](http://www.library.northwestern.edu/index.html) and searching for the title. please feel free to contribute if you've found notable books (not just necessarily type/design/art books). 
+this is a list of notable books (mostly type/design related) that are available for all northwestern students through either main library or northwestern special collections. you can find or check these books out by going to the [northwestern library website](http://www.library.northwestern.edu/index.html) and searching for the title. please feel free to contribute if you've found other notable books (not just necessarily type/design/art books). 
 
 ## type
 - The new typography : a handbook for modern designers (Jan Tschichold )
