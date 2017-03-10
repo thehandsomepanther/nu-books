@@ -18,6 +18,7 @@ this is a list of notable books (mostly type/design related) that are available 
 |Robert Granjon, sixteenth century type founder and printer|Mergenthaler Linotype Company|Main Library Special Collections (L Graphic Arts Granjon Me)
 |Counterpunch|Fred Smeijers|Main Library Special Collections (Graphic Arts S637c)
 |Texts on type: critical writings on typography|Steven Heller and Philip Megs|Main Library Stacks (686.224 T355)
+|The elements of typographic style|Robert Bringhurst|Main Library Stacks (686.224 B858e)
 
 ## graphic design
 |Title|Author/Editor|Call Number|
@@ -53,3 +54,4 @@ this is a list of notable books (mostly type/design related) that are available 
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |Critical terms for media studies|W. J. T. Mitchell, Mark Victor Hansen|Main Library Stacks (PN56.T37 C75 2010)
+|The Stack: on software and sovereignty|Benjamin Bratton|Main Library Lending Resource Sharing Requests (QA76.5915 .B73 2015)
