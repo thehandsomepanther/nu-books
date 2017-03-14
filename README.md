@@ -18,24 +18,31 @@ this is a list of notable books (mostly type/design related) that are available 
 |Robert Granjon, sixteenth century type founder and printer|Mergenthaler Linotype Company|Main Library Special Collections (L Graphic Arts Granjon Me)
 |Counterpunch|Fred Smeijers|Main Library Special Collections (Graphic Arts S637c)
 |Texts on type: critical writings on typography|Steven Heller and Philip Megs|Main Library Stacks (686.224 T355)
-|The elements of typographic style|Robert Bringhurst|Main Library Stacks (686.224 B858e)
+|The elements of typographic style|Robert Bringhurst|Main Library Stacks (686.224 B858e)|
+|Essential Type|Tony Seddon|Main Library Stacks (Z250 .S43 2016 )|
+|Helvetica forever: story of a typeface|Lars Muller, Vitor Malsy|Oak Grove Library Center Oak Grove Library Center--Request Online (non-circulating item for in-library use only) (Z250.5.S24 H45 2009)|
 
 ## graphic design
 |Title|Author/Editor|Call Number|
 |---|---|---|
-|Graphic Design Theory: Readings from the field|Helen Armstrong|Main Library Art Library (741.6 G7663 )
+|Graphic Design Theory: Readings from the field|Helen Armstrong|Main Library Art Library (741.6 G7663 )|
+|The Graphic Artist and his Design Problems|Josef Muller-Brockmann|Main Library Special Collections (Graphic Arts M947g)|
+|The Eternal Letter: two millennia of the clasical Roman capital|Paul Shaw|Main Library Art Library Large Section (NK3625.R66 E84 2015 )|
+
 
 ## design (general)
 |Title|Author/Editor|Call Number|
 |---|---|---|
-|White|Kenya Hara|Main Library Art Library (BH221.J3 H37 2010)
-|Ways of Seeing|John Berger|Main Library Core - 2 North (759.94 W359 1972)
-|Designing Design|Kenya Hara|Main Library Art Library (NK1170 .H37x 2015)
-|79 Short Essays on Design|Michael Bierut, others|Online access
-|Ex-formation|Kenya Hara|Main Library Art Library (BH221.J3 H37 2010)
-|6 chapters in design: Saul Bass, Ivan Chermayeff, Milton Glaser, Paul Rand, Ikko Tanaka, Henryk Tomaszewski|Philip Meggs|Main Library Art Library (741.60904 S625)
+|White|Kenya Hara|Main Library Art Library (BH221.J3 H37 2010)|
+|Ways of Seeing|John Berger|Main Library Core - 2 North (759.94 W359 1972)|
+|Designing Design|Kenya Hara|Main Library Art Library (NK1170 .H37x 2015)|
+|79 Short Essays on Design|Michael Bierut, others|Online access|
+|Ex-formation|Kenya Hara|Main Library Art Library (BH221.J3 H37 2010)|
+|6 chapters in design: Saul Bass, Ivan Chermayeff, Milton Glaser, Paul Rand, Ikko Tanaka, Henryk Tomaszewski|Philip Meggs|Main Library Art Library (741.60904 S625)|
 |Forms: Whole, Rhythm, Hierarchy, Network|Caroline Levine|Main Library Stacks (PN45.5 .L48 2015)
-|Thing theory|Bill Brown|Online access
+|Thing theory|Bill Brown|Online access|
+|What is a designer: things, places, messages|Norman Potter|Main Library Special Collections (Graphic Arts P866w )|
+|Design as Art|Bruno Munari|Main Library Art Library (745.4 M963de )|
 
 ## book design
 |Title|Author/Editor|Call Number|
