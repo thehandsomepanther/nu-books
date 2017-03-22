@@ -43,6 +43,8 @@ this is a list of notable books (mostly type/design related) that are available 
 |Thing theory|Bill Brown|Online access|
 |What is a designer: things, places, messages|Norman Potter|Main Library Special Collections (Graphic Arts P866w )|
 |Design as Art|Bruno Munari|Main Library Art Library (745.4 M963de )|
+|Super normal: sensations of the ordinary|Naoto Fukasawa|Main Library Art Library (745.2074 F961Z )|
+|Design: The Invention of Desire|Jessica Helfand|Main Library Art Library (NK1520 .H45 2016 )|
 
 ## book design
 |Title|Author/Editor|Call Number|
@@ -57,8 +59,19 @@ this is a list of notable books (mostly type/design related) that are available 
 |---|---|---|
 |The 26 letters|Oscar Ogg|Main Library Special Collections (Graphic Arts O345t)
 
+## technology
+|Title|Author/Editor|Call Number|
+|---|---|---|
+|The Stack: on software and sovereignty|Benjamin Bratton|Main Library Lending Resource Sharing Requests (QA76.5915 .B73 2015)|
+|A Prehistory of the Cloud|Tung-Hui Hu|Online Access|
+|On the Existence of Digital Objects (Electronic Mediations)|Yuk Hui|Main Library Stacks (TK7868.D5 H835 2016 )|
+
+## novels
+|Title|Author|Call Number|
+|The attraction of things : fragments of an oblique life|Roger Lewinter (translated by Rachel Careau)|Main Library Stacks (PQ2672.E963 A8813 2016 )|
+
 ## other
 |Title|Author/Editor|Call Number|
 |---|---|---|
-|Critical terms for media studies|W. J. T. Mitchell, Mark Victor Hansen|Main Library Stacks (PN56.T37 C75 2010)
-|The Stack: on software and sovereignty|Benjamin Bratton|Main Library Lending Resource Sharing Requests (QA76.5915 .B73 2015)
+|Critical terms for media studies|W. J. T. Mitchell, Mark Victor Hansen|Main Library Stacks (PN56.T37 C75 2010)|
+|Understanding Comics: The Invisible Art|Scott McCloud|Main Library Art Library (741.5 M127u )|
