@@ -68,6 +68,7 @@ this is a list of notable books (mostly type/design related) that are available 
 
 ## novels
 |Title|Author|Call Number|
+|---|---|---|
 |The attraction of things : fragments of an oblique life|Roger Lewinter (translated by Rachel Careau)|Main Library Stacks (PQ2672.E963 A8813 2016 )|
 
 ## other
