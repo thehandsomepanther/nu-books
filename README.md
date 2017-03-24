@@ -45,6 +45,7 @@ this is a list of notable books (mostly type/design related) that are available 
 |Design as Art|Bruno Munari|Main Library Art Library (745.4 M963de )|
 |Super normal: sensations of the ordinary|Naoto Fukasawa|Main Library Art Library (745.2074 F961Z )|
 |Design: The Invention of Desire|Jessica Helfand|Main Library Art Library (NK1520 .H45 2016 )|
+|Speculative Everything: Design, Fiction, and Social Dreaming|Anthony Dunne, Fiona Raby|Main Library Art Library (NK1505 .D865 2013 )|
 
 ## book design
 |Title|Author/Editor|Call Number|
@@ -65,14 +66,20 @@ this is a list of notable books (mostly type/design related) that are available 
 |The Stack: on software and sovereignty|Benjamin Bratton|Main Library Lending Resource Sharing Requests (QA76.5915 .B73 2015)|
 |A Prehistory of the Cloud|Tung-Hui Hu|Online Access|
 |On the Existence of Digital Objects (Electronic Mediations)|Yuk Hui|Main Library Stacks (TK7868.D5 H835 2016 )|
+|The Marvelous Clouds: Toward a Philosophy of Elemental Media|John Durham Peters| Main Library Stacks (P91 .P48 2015 )|
 
 ## novels
 |Title|Author|Call Number|
 |---|---|---|
 |The attraction of things : fragments of an oblique life|Roger Lewinter (translated by Rachel Careau)|Main Library Stacks (PQ2672.E963 A8813 2016 )|
+|Suicide|Edouard Leve|Main Library Stacks (843.92 L657sX )|
+|Universal Harvester|John Darnielle|Main Library Stacks (PS3604.A748 U55 2017 )|
+|The Last Wolf and Herman|Laszlo Krasznahorkai|Main Library Stacks (PH3281.K8866 A2 2016 )|
+
 
 ## other
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |Critical terms for media studies|W. J. T. Mitchell, Mark Victor Hansen|Main Library Stacks (PN56.T37 C75 2010)|
 |Understanding Comics: The Invisible Art|Scott McCloud|Main Library Art Library (741.5 M127u )|
+|The Parasite|Michel Serres|Main Library Stacks (848.914 S488pX )|
