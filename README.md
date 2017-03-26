@@ -1,7 +1,16 @@
 # nu-books
 this is a list of notable books (mostly type/design related) that are available for all northwestern students through the school library system. you can find or check these books out by going to the [northwestern library website](http://www.library.northwestern.edu/index.html) and searching for the title or call number. please feel free to contribute if you've found other notable books (not just necessarily type/design/art books).
 
-## type
+- [type](#type)
+- [graphic design](#graphic)
+- [design (general)](#design)
+- [book design](#book)
+- [calligraphy](#calligraphy)
+- [technology](#technology)
+- [novels](#novels)
+- [other](#other)
+
+## <a name="type">type</a>
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |The new typography: a handbook for modern designers|Jan Tschichold|Main Library Special Collections (Graphic Arts Tschichold T879nX)|
@@ -22,7 +31,7 @@ this is a list of notable books (mostly type/design related) that are available 
 |Essential Type|Tony Seddon|Main Library Stacks (Z250 .S43 2016 )|
 |Helvetica forever: story of a typeface|Lars Muller, Vitor Malsy|Oak Grove Library Center Oak Grove Library Center--Request Online (non-circulating item for in-library use only) (Z250.5.S24 H45 2009)|
 
-## graphic design
+## <a name="graphic">graphic design</a>
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |Graphic Design Theory: Readings from the field|Helen Armstrong|Main Library Art Library (741.6 G7663 )|
@@ -30,7 +39,7 @@ this is a list of notable books (mostly type/design related) that are available 
 |The Eternal Letter: two millennia of the clasical Roman capital|Paul Shaw|Main Library Art Library Large Section (NK3625.R66 E84 2015 )|
 
 
-## design (general)
+## <a name="design">design (general)</a>
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |White|Kenya Hara|Main Library Art Library (BH221.J3 H37 2010)|
@@ -47,7 +56,7 @@ this is a list of notable books (mostly type/design related) that are available 
 |Design: The Invention of Desire|Jessica Helfand|Main Library Art Library (NK1520 .H45 2016 )|
 |Speculative Everything: Design, Fiction, and Social Dreaming|Anthony Dunne, Fiona Raby|Main Library Art Library (NK1505 .D865 2013 )|
 
-## book design
+## <a name="book">book design</a>
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |The art of the publisher|Roberto Calasso|Main Library Stacks (Z278 .C2813 2015)
@@ -55,12 +64,12 @@ this is a list of notable books (mostly type/design related) that are available 
 |An illustrated history of writing and lettering|Jan Tschichold|Main Library Special Collections (Graphic Arts Tschichold T879gX)
 |Designing books: practice and theory|Jost Hochuli|Main Library Special Collections (Graphic Arts H685d)
 
-## calligraphy
+## <a name="calligraphy">calligraphy</a>
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |The 26 letters|Oscar Ogg|Main Library Special Collections (Graphic Arts O345t)
 
-## technology
+## <a name="technology">technology</a>
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |The Stack: on software and sovereignty|Benjamin Bratton|Main Library Lending Resource Sharing Requests (QA76.5915 .B73 2015)|
@@ -68,7 +77,7 @@ this is a list of notable books (mostly type/design related) that are available 
 |On the Existence of Digital Objects (Electronic Mediations)|Yuk Hui|Main Library Stacks (TK7868.D5 H835 2016 )|
 |The Marvelous Clouds: Toward a Philosophy of Elemental Media|John Durham Peters| Main Library Stacks (P91 .P48 2015 )|
 
-## novels
+## <a name="novels">novels</a>
 |Title|Author|Call Number|
 |---|---|---|
 |The attraction of things : fragments of an oblique life|Roger Lewinter (translated by Rachel Careau)|Main Library Stacks (PQ2672.E963 A8813 2016 )|
@@ -77,7 +86,7 @@ this is a list of notable books (mostly type/design related) that are available 
 |The Last Wolf and Herman|Laszlo Krasznahorkai|Main Library Stacks (PH3281.K8866 A2 2016 )|
 
 
-## other
+## <a name="other">other</a>
 |Title|Author/Editor|Call Number|
 |---|---|---|
 |Critical terms for media studies|W. J. T. Mitchell, Mark Victor Hansen|Main Library Stacks (PN56.T37 C75 2010)|
