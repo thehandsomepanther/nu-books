@@ -83,3 +83,4 @@ this is a list of notable books (mostly type/design related) that are available 
 |Critical terms for media studies|W. J. T. Mitchell, Mark Victor Hansen|Main Library Stacks (PN56.T37 C75 2010)|
 |Understanding Comics: The Invisible Art|Scott McCloud|Main Library Art Library (741.5 M127u )|
 |The Parasite|Michel Serres|Main Library Stacks (848.914 S488pX )|
+|Jazz|Scott DeVeaux, Gary Giddins|Main Library MUSIC Library (Stacks) (ML3508.G54 J3 )|
