@@ -55,6 +55,7 @@ this is a list of notable books (mostly type/design related) that are available 
 |Super normal: sensations of the ordinary|Naoto Fukasawa|Main Library Art Library (745.2074 F961Z )|
 |Design: The Invention of Desire|Jessica Helfand|Main Library Art Library (NK1520 .H45 2016 )|
 |Speculative Everything: Design, Fiction, and Social Dreaming|Anthony Dunne, Fiona Raby|Main Library Art Library (NK1505 .D865 2013 )|
+|Multiple Signatures: On Designers, Authors, Readers, and Users|Michael Rock|Main Library Art Library (741.6 R682m)|
 
 ## <a name="book">book design</a>
 |Title|Author/Editor|Call Number|
