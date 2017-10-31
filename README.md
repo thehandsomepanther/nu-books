@@ -94,3 +94,4 @@ this is a list of notable books (mostly type/design related) that are available 
 |Understanding Comics: The Invisible Art|Scott McCloud|Main Library Art Library (741.5 M127u )|
 |The Parasite|Michel Serres|Main Library Stacks (848.914 S488pX )|
 |Jazz|Scott DeVeaux, Gary Giddins|Main Library MUSIC Library (Stacks) (ML3508.G54 J3 )|
+|Words on the move : why English won't- and cant- sit still (like, literally)|John McWhorter|Main Library Stacks P40.5.L54 M39 2016|
