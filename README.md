@@ -95,3 +95,4 @@ this is a list of notable books (mostly type/design related) that are available 
 |The Parasite|Michel Serres|Main Library Stacks (848.914 S488pX )|
 |Jazz|Scott DeVeaux, Gary Giddins|Main Library MUSIC Library (Stacks) (ML3508.G54 J3 )|
 |Words on the move : why English won't- and cant- sit still (like, literally)|John McWhorter|Main Library Stacks P40.5.L54 M39 2016|
+|The sexuality of Christ in Renaissance art and in modern oblivion|Leo Steinberg|Main Library Art Library N8050 .S74 1996|
